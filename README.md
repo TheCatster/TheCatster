@@ -1,6 +1,6 @@
 Hi! My name is Daniel Rose :wave:
 -----
-I'm a student in mechatronics and embedded engineering, and believe that the best teacher is practice, and the way to become the best is through experience. 
+I'm a student in mechatronics and embedded engineering, but appreciate all forms of computer good-ness.
 
 - Co-founder of mneme, the self-hosted cross-platform journal app
 - Currently working on PassCLI and mneme
