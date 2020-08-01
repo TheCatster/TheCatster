@@ -1,10 +1,16 @@
-Hi! My name is Daniel Rose :wave:
------
-I'm a student in mechatronics and embedded engineering, but appreciate all forms of computer good-ness.
+<h2> Hi, I'm Daniel Rose! <img src="https://media.giphy.com/media/h741oEMnAUIILdX0kU/giphy.gif" width="50"></h2>
+<img align='right' src="https://cdn.pixabay.com/photo/2017/03/23/12/32/arduino-2168193_960_720.png" width="230">
+<p><em>Mechatronics and embedded engineering student<br>Co-founder of  <a href="http://www.unb.br">mneme</a></br>Freelance Developer working as <a href="https://www.thoughtworks.com">the White Hat Cat</a> 
+</em></p>
 
-- Co-founder of mneme, the self-hosted cross-platform journal app
-- Developer of White Hat Cat, specializing in large-scale Discord bots
-- Currently working on PassCLI and mneme
-- Currently improving C++ skills
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecatster&hide=css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### For a bit more detail... 
+
+```python
+daniel_rose = {
+  "code": ["Python", "C++", "HTML", "CSS", "Julia", "Java"],
+  "tools": ["Docker", "Django", "Numpy", "SQL", "PyTorch", "Discord.py", "TensorFlow"],
+  "challenge": "Rewriting my CLI based Python "
+}
+
+```
+---
