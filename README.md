@@ -8,7 +8,7 @@
 ```python
 daniel_rose = {
   "code": ["Python", "C++", "HTML", "CSS", "Julia", "Java"],
-  "tools": ["Docker", "Django", "Numpy", "SQL", "PyTorch", "Discord.py", "TensorFlow"],
+  "tools": ["Docker", "Django", "Numpy", "SQL", "PyTorch", "Discord.py"],
   "challenge": "Rewriting my CLI based Python "
 }
 
