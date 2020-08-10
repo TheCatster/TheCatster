@@ -7,7 +7,7 @@
 
 ```python
 daniel_rose = {
-  "code": ["Python", "C++", "HTML", "CSS", "Julia", "Java"],
+  "code": ["Python", "Julia", "Rust", "C++", "HTML", "CSS", "Java"],
   "tools": ["Docker", "Django", "SQL", "PyTorch", "TensorFlow.jl", "Discord.py"],
   "challenge": "Making stuff with Arduinos and C++. Mathing stuff with Julia and Project Euler."
 }
