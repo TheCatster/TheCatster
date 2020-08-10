@@ -9,7 +9,7 @@
 daniel_rose = {
   "code": ["Python", "C++", "HTML", "CSS", "Julia", "Java"],
   "tools": ["Docker", "Django", "SQL", "PyTorch", "TensorFlow.jl", "Discord.py"],
-  "challenge": "Rewriting my CLI based Python apps into C++"
+  "challenge": "Making stuff with Arduinos and C++. Mathing stuff with Julia and Project Euler."
 }
 
 ```
