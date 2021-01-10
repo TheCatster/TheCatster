@@ -7,9 +7,9 @@
 
 ```python
 danielRose = mapOf(
-  "code" to ["Kotlin", "Python", "Rust", "Julia"],
+  "code" to ["Kotlin", "Swift", "Python", "Rust", "Julia"],
   "tools" to ["Docker", "SQL", "Tensorflow", "Nginx"],
-  "challenge" to ["Advent of Code in Kotlin!"]
+  "challenge" to ["Continue learning Kotlin, and writing embedded applications in Swift!"]
 )
 
 ```
