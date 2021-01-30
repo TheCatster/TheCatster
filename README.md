@@ -7,7 +7,7 @@
 
 ```python
 danielRose = mapOf(
-  "code" to ["Kotlin", "Swift", "Python", "Rust", "Julia"],
+  "code" to ["Kotlin", "Rust", "Python", "Julia"],
   "tools" to ["Docker", "SQL", "Tensorflow", "Nginx"],
   "challenge" to ["Continue learning Kotlin, and writing embedded applications in Swift!"]
 )
