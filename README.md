@@ -9,8 +9,8 @@
 danielRose = mapOf(
   "code" to ["Kotlin", "Rust", "Python", "Julia"],
   "tools" to ["Docker", "SQL", "Tensorflow", "Nginx"],
-  "work" to ["Writing performance-critical embedded applications in Rust"]
-  "challenge" to ["Continue learning Kotlin!"]
+  "work" to ["Writing performance-critical embedded applications in Rust"],
+  "challenge" to ["Continue learning Kotlin!"],
 )
 
 ```
