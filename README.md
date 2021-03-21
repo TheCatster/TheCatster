@@ -5,13 +5,12 @@
 
 ### For a bit more detail... 
 
-```python
-danielRose = mapOf(
-  "code" to ["Kotlin", "Rust", "Python", "Julia"],
-  "tools" to ["Docker", "SQL", "Tensorflow", "Nginx"],
-  "work" to ["Writing performance-critical embedded applications in Rust"],
-  "challenge" to ["Continue learning Kotlin!"],
-)
-
+```rust
+let danielRose = Engineer {
+  languages: ["Rust", "Python", "Julia", "C/C++", "Guile/Emacs Lisp"],
+  tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas", "RPPL"],
+  work: ["Writing performance-critical embedded applications in Rust"],
+  challenge: ["Writing FeStats, a statistics TUI program in Rust!"],
+};
 ```
 ---
