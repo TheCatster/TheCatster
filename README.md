@@ -8,7 +8,7 @@
 ```rust
 let danielRose = Engineer {
   languages: ["Rust", "Hy/Python", "Julia", "C/C++", "Emacs Lisp"],
-  tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas", "RPPL"],
+  tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas", "rppal"],
   work: ["Writing performance-critical embedded applications in Rust"],
   challenge: ["Writing FeStats, a statistics TUI program in Rust!"],
 };
