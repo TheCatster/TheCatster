@@ -3,6 +3,8 @@
 <p><em>Apprentice Satellite Engineer</br>Mechatronics and Cognition student</br>FSF Associate Member</br>EFF Member
 </em></p>
 
+All personal configurations and side ideas are at [my gitea server.](https://git.danielr.xyz)
+
 ### For a bit more detail... 
 
 ```rust
