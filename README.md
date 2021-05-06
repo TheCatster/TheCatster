@@ -9,7 +9,7 @@ All personal configurations and side ideas are at [my gitea server.](https://git
 
 ```rust
 let danielRose = Engineer {
-  languages: ["Rust", "Hy/Python", "Julia", "C/C++", "Emacs Lisp"],
+  languages: ["Rust", "Python", "C/C++", "Julia", "Lisp (Guile Emacs Hy Clojure)"],
   tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas", "rppal"],
   work: ["Writing performance-critical embedded applications in Rust"],
   challenge: ["Writing FeStats, a statistics TUI program in Rust & Python/Hy!"],
