@@ -3,7 +3,7 @@
 <p><em>Apprentice Satellite Engineer</br>Embedded Systems and Data Science student</br>FSF Associate Member</br>EFF Member
 </em></p>
 
-All personal configurations and side ideas are at [my gitea server.](https://git.danielr.xyz)
+All personal configurations and side ideas are mirrored at [my gitea server.](https://git.danielr.xyz)
 
 ### For a bit more detail... 
 
