@@ -10,7 +10,7 @@ All personal configurations and side ideas are mirrored at [my gitea server.](ht
 ```rust
 let danielRose = Engineer {
   main_languages: ["Rust", "Python", "C"],
-  hobby_languages: ["Lisp (Emacs Clojure Hy", "Julia", "JVM (Kotlin Scala)"],
+  hobby_languages: ["Lisp (Emacs Clojure Hy)", "Julia", "JVM (Kotlin Scala)"],
   tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas", "rppal"],
   work: ["Writing performance-critical embedded applications in Rust"],
   challenge: ["Writing FeStats, a statistics TUI program in Rust & Python/Hy!"],
