@@ -13,7 +13,7 @@ let danielRose = Engineer {
   hobby_languages: ["Lisp/Scheme (Emacs Hy Racket)", "JVM (Kotlin Scala)"],
   tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas", "rppal"],
   work: ["Writing performance-critical embedded applications in Rust"],
-  challenge: ["Writing FeStats, a statistics TUI program in Rust & Python!"],
+  challenge: ["Practicing C and FreeRTOS!"],
 };
 ```
 ---
