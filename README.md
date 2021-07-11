@@ -3,7 +3,7 @@
 <p><em>Apprentice Satellite Engineer</br>Embedded Systems student</br>FSF Associate Member</br>EFF Member
 </em></p>
 
-**I do not develop anything on GitHub anymore!** All work is done on [Sourcehut](https://sr.ht/~thecatster/), and is simply mirrored here (although some projects are exclusively on Sourcehut.) Look for my projects there!
+**I do not develop anything on GitHub anymore!** All projects are developed on [Sourcehut](https://sr.ht/~thecatster/), and is simply mirrored here (although some projects are exclusively on Sourcehut.) Look for my projects there!
 
 This account is kept to contribute to projects that are on GitHub and for work.
 
