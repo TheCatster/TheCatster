@@ -4,9 +4,9 @@
 </em></p>
 
 ### **I do not develop anything on GitHub anymore!** 
-All projects are developed on [Sourcehut](https://sr.ht/~thecatster/), and are simply mirrored here (although some projects are exclusively on Sourcehut.) Look for my work there!
+All projects are developed on [Sourcehut](https://sr.ht/~thecatster/), and are simply mirrored here (although some projects are exclusively on Sourcehut). Look for my work there!
 
-This account is kept to contribute to projects that are on GitHub and for work.
+This account is kept to contribute to projects that are on GitHub (and stuff like game jams) and for work.
 
 ### For a bit more detail... 
 
