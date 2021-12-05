@@ -9,9 +9,9 @@ I develop some of my public projects on GitHub, although the majority of my proj
 
 ```rust
 let daniilRose = Engineer {
-  main_languages: ["Rust", "C/C++", "Kotlin", "Python", "Swift"],
-  hobby_languages: ["Lisp/Scheme (Emacs Hy Common Chicken)", "JVM (Scala Clojure)"],
+  main_languages: ["C/C++", "Rust"],
+  hobby_languages: ["Kotlin", "Python", "Swift", "Lisp/Scheme (Emacs Hy Clojure)"],
   tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas"],
-  work: ["Writing performance-critical embedded applications in Rust"],
+  work: ["Writing performance-critical embedded applications in Rust and C/C++"],
 };
 ```
