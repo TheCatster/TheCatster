@@ -9,7 +9,7 @@ I develop some of my public projects on GitHub, although the majority of my proj
 
 ```rust
 let daniilRose = Engineer {
-  main_languages: ["C++", "Rust", "C"],
+  main_languages: ["Rust", "C/C++"],
   hobby_languages: ["Kotlin", "Python", "Swift", "Lisp/Scheme (Emacs Hy Clojure)"],
   tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas"],
   work: ["Writing performance-critical embedded applications in Rust and C/C++"],
