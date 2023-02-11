@@ -8,7 +8,7 @@ I develop some of my public projects on GitHub, although the majority of my proj
 ### For a bit more detail... 
 
 ```rust
-let daniilRose = Engineer {
+let daniil_rose = Engineer {
   main_languages: ["Rust", "C/C++", "Python"],
   hobby_languages: ["Kotlin", "Swift", "Emacs Lisp", "Clojure"],
   tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas"],
