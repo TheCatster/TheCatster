@@ -13,8 +13,8 @@
 ```rust
 let daniil_rose = ComputerEngineer {
   main_languages: ["C/C++", "Rust", "Python"],
-  hobby_languages: ["Kotlin", "Java", "Bash", "Go", "Emacs Lisp", "Zig"],
-  tools: ["Docker", "SQL", "Tensorflow", "Nginx", "Pandas"],
+  hobby_languages: ["Bash", "Go", "Emacs Lisp", "Zig", "Kotlin", "Java"],
+  tools: ["Docker", "SQL", "Tensorflow", "Nginx", "ROS", "GDB", "Pandas"],
   work: ["Developing a hobby operating system!"],
 };
 ```
