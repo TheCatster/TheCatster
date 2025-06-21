@@ -2,8 +2,8 @@
 <img align='right' src="raspberry-pi-zero.png" width="230">
 <p>
     <em>Policy Researcher @ IEEE-USA</br>
-        M.I.A. (Master of International Affairs), B.S. in Computer Engineering, B.S. in German at Penn State</br>
-        President of the graduate student government</br>
+        M.I.A. (Master of International Affairs), B.S. in Computer Engineering, B.S. in German</br>
+        President of the Graduate Student Government</br>
         IEEE - FSF - EFF
     </em>
 </p>
